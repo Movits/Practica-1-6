@@ -10,6 +10,7 @@ document.write("<h3> Integer: " + integer + "</h3>");
 document.write("<h3> Float: " + float + "</h3>");
 document.write("<h3> Boolean: " + boolean + "</h3>");
 
+
 /* console.log (nombre);
 document.querySelector("body").innerHTML = "<h1>" +nombre + "</h1>";
 document.write("<h1>" +"Hola " + nombre + "</h1>"); */
