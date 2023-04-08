@@ -5,10 +5,10 @@ let float = prompt("Ingrese un float")
 let boolean = prompt("Ingrese un boolean")
 
 document.write("<h3> Caracter: " + caracter + "</h3>");
-document.write("<h3> String: " + string + "</h3>")
-document.write("<h3> Integer: " + integer + "</h3>")
-document.write("<h3> Float: " + float + "</h3>")
-document.write("<h3> Boolean: " + boolean + "</h3>")
+document.write("<h3> String: " + string + "</h3>");
+document.write("<h3> Integer: " + integer + "</h3>");
+document.write("<h3> Float: " + float + "</h3>");
+document.write("<h3> Boolean: " + boolean + "</h3>");
 
 /* console.log (nombre);
 document.querySelector("body").innerHTML = "<h1>" +nombre + "</h1>";
