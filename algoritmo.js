@@ -1,8 +1,8 @@
 let caracter = prompt("Ingrese un caracter");
 let string = prompt("Ingrese una string");
 let integer = prompt("Ingrese un integer");
-let float = prompt("Ingrese un float")
-let boolean = prompt("Ingrese un boolean")
+let float = prompt("Ingrese un float");
+let boolean = prompt("Ingrese un boolean");
 
 document.write("<h3> Caracter: " + caracter + "</h3>");
 document.write("<h3> String: " + string + "</h3>");
